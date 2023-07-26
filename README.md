@@ -2,10 +2,10 @@
 ## Correspondence: 
 Guangrong Qin, Institute for Systems Biology
 
-#### Introduction to BigGIM-DrugResponse [Wiki page](https://github.com/NCATSTranslator/Translator-All/wiki/Big-GIM-II:-Drug-Response-KP)
-hyperlink 
+#### Introduction to BigGIM-DrugResponse: [Wiki page](https://github.com/NCATSTranslator/Translator-All/wiki/Big-GIM-II:-Drug-Response-KP)
 
-#### [Paser](https://github.com/gloriachin/BigGIM_Parser) that transform KGs to SmartAPI compliant json file
+
+####  Transform KGs to SmartAPI compliant json file: [Paser](https://github.com/gloriachin/BigGIM_Parser) that
 
 
 #### Meta graph 
