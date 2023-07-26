@@ -1,5 +1,6 @@
 # BigGIM-DrugResponse
-Authors: 
+## Correspondence: 
+Guangrong Qin, Institute for Systems Biology
 
 ## Wiki page
 https://github.com/NCATSTranslator/Translator-All/wiki/Big-GIM-II:-Drug-Response-KP
@@ -12,5 +13,6 @@ https://github.com/gloriachin/BigGIM_Parser
 
 ## Acknowledgement
 This project is sponsered by NCATS Translator project
+https://github.com/NCATSTranslator
 
 
