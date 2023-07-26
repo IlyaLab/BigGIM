@@ -13,7 +13,7 @@
 This project is sponsered by NCATS [Translator project](https://github.com/NCATSTranslator)
 
 #### Contributors 
-Guangrong Qin, Institute for Systems Biology
+Guangrong Qin, Institute for Systems Biology \
 Yue Zhang, Institute for Systems Biology
 
 
