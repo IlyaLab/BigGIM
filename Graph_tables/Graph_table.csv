@@ -14,3 +14,5 @@ HuRI_formated.csv,Gene,physically_interacts_with,Gene,implemented_in_API,PMID:32
 Yang-16_formated.csv,Gene,physically_interacts_with,Gene,implemented_in_API,PMID:26871637,,cumulated,biolink:3.5.2,
 GTEX_liver_negative_correlated_formated.csv,Gene,negatively_correlated_with,Gene,implemented_in_API,BigGIM-DrugResponse,GTEx,inferred,biolink:3.5.2,
 GTEX_liver_positively_correlated_formated.csv,Gene,positively_correlated_with,Gene,implemented_in_API,BigGIM-DrugResponse,GTEx,inferred,biolink:3.5.2,
+CellMarkers,Gene,expressed_in,Cell Type, In_progress, ,,cumulated,biolink:3.5.2
+SIGNOR3.0,Protein,regulates,Protein,In_progress,SIGNOR3.0,,cumulated,biolink:3.5.2
