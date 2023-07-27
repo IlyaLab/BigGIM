@@ -6,11 +6,11 @@ Input_DrugResponse_mut_IC50_gdsc_08312022.csv,Gene,associated_with_resistance_to
 TCGA_driver_mut_freq.csv,Gene,gene_associated_with_condition,Disease,implemented_in_API,BigGIM-DrugResponse,TCGA,inferred,biolink:3.5.2
 FA_mut.csv,Gene,gene_associated_with_condition,Disease,implemented_in_API,BigGIM-DrugResponse,PMID:35854323,cumulated,biolink:3.5.2
 GDSC_cancer_specific_signatures.csv,Disease,has_biomarker,Gene,implemented_in_API,BigGIM-DrugResponse,GDSC,inferred,biolink:3.5.2
-Drug_target_with_primary_source.csv,SmallMolecular,physically_interacts_with,Gene,DrugCentral etc,,cumulated,biolink:3.5.2
-Biogrid_formated.csv,Gene,physically_interacts_with,Gene,Biogrid,cumulated,biolink:3.5.2
-H-I-05_formated.csv,Gene,physically_interacts_with,Gene,PMID:19060904,cumulated,biolink:3.5.2
-HI-II-14_formated.csv,Gene,physically_interacts_with,Gene,PMID:25416956,cumulated,biolink:3.5.2
-HuRI_formated.csv,Gene,physically_interacts_with,Gene,PMID:32296183,cumulated,biolink:3.5.2
-Yang-16_formated.csv,Gene,physically_interacts_with,Gene,PMID:26871637,cumulated,biolink:3.5.2
-GTEX_liver_negative_correlated_formated.csv,Gene,negatively_correlated_with,Gene,GTEx,inferred,biolink:3.5.2
-GTEX_liver_positively_correlated_formated.csv,Gene,positively_correlated_with,Gene,GTEx,inferred,biolink:3.5.2
+Drug_target_with_primary_source.csv,SmallMolecular,physically_interacts_with,Gene,implemented_in_API,DrugCentral etc,,cumulated,biolink:3.5.2
+Biogrid_formated.csv,Gene,physically_interacts_with,Gene,implemented_in_API,Biogrid,,cumulated,biolink:3.5.2
+H-I-05_formated.csv,Gene,physically_interacts_with,Gene,implemented_in_API, PMID:19060904,,cumulated,biolink:3.5.2
+HI-II-14_formated.csv,Gene,physically_interacts_with,Gene,implemented_in_API,PMID:25416956,,cumulated,biolink:3.5.2
+HuRI_formated.csv,Gene,physically_interacts_with,Gene,implemented_in_API,PMID:32296183,,cumulated,biolink:3.5.2
+Yang-16_formated.csv,Gene,physically_interacts_with,Gene,implemented_in_API,PMID:26871637,,cumulated,biolink:3.5.2
+GTEX_liver_negative_correlated_formated.csv,Gene,negatively_correlated_with,Gene,implemented_in_API,BigGIM-DrugResponse,GTEx,inferred,biolink:3.5.2
+GTEX_liver_positively_correlated_formated.csv,Gene,positively_correlated_with,Gene,implemented_in_API,BigGIM-DrugResponse,GTEx,inferred,biolink:3.5.2
