@@ -13,7 +13,8 @@
 This project is sponsered by NCATS [Translator project](https://github.com/NCATSTranslator)
 
 #### Contributors 
-Guangrong Qin, Institute for Systems Biology \
-Yue Zhang, Institute for Systems Biology \
-Ilya Shmulevich, Institute for Systems Biology
+Guangrong Qin, Institute for Systems Biology (Conceptualization, implementation, data acquisition Funding acquisition) \
+Yue Zhang, Institute for Systems Biology (implementation, data acquisition) \
+Gwênlyn Glusman, Institute for Systems Biology (Funding acquisition) \ 
+Ilya Shmulevich, Institute for Systems Biology (Funding acquisition)
 
