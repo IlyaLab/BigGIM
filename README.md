@@ -2,7 +2,7 @@
 
 #### Introduction to BigGIM-DrugResponse: [Wiki page](https://github.com/NCATSTranslator/Translator-All/wiki/Big-GIM-II:-Drug-Response-KP)
 Multiomic Provider Tool Description - BigGIM-DrugResponse KP, also called BigGIM II, provides an API that exposes knowledge graphs aggregated from public knowledge resource or derived empirical associations from omics, drug screening and functional screening datasets. It includes the concepts of diseases, drugs or chemicals, genes and proteins etc. It includes multiple KGs.
-BigGIM-DrugResponse KP is KP created/supported/maintained by a Multiomic Provider. Click here to view the Multiomic Provider page. \
+BigGIM-DrugResponse KP is KP created/supported/maintained by a Multiomic Provider. Click here to view the Multiomic Provider page. 
 
 
 
