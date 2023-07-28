@@ -1,0 +1,14 @@
+,KG,No_record,No_objects,object_id_prefix,No_subjects,subject_id_prefix,unique_edges,No_categories_nodes
+0,DrugResponse_expr_auc_gdsc_08312022.csv,175970,79,{'PUBCHEM.COMPOUND'},16161,{'NCBIGene'},"{'associated_with_resistance_to', 'associated_with_sensitivity_to'}","{'SmallMolecule', 'Gene'}"
+1,DrugResponse_mut_IC50_gdsc_08312022.csv,27743,80,{'PUBCHEM.COMPOUND'},4871,{'NCBIGene'},"{'associated_with_resistance_to', 'associated_with_sensitivity_to'}","{'SmallMolecule', 'Gene'}"
+2,TCGA_driver_mut_freq.csv,901,33,{'MONDO'},250,{'NCBIGene'},{'gene_associated_with_condition'},"{'Disease', 'Gene'}"
+3,FA_mut.csv,21,1,{'MONDO'},21,{'NCBIGene'},{'gene_associated_with_condition'},"{'Disease', 'Gene'}"
+4,GDSC_cancer_specific_signatures.csv,13811,8296,{'NCBIGene'},22,{'MONDO'},{'has_biomarker'},"{'Disease', 'Gene'}"
+5,Drug_targets_14806.csv,14806,1508,{'NCBIGene'},3400,{'PUBCHEM.COMPOUND'},{'has_target'},"{'SmallMolecule', 'Gene'}"
+6,Biogrid_formated.csv,820147,17942,{'NCBIGene'},15570,{'NCBIGene'},"{'physically_interacts_with', 'genetically_interacts_with'}","{'Gene', 'Protein'}"
+7,H-I-05_formated.csv,2665,976,{'NCBIGene'},1018,{'NCBIGene'},{'physically_interacts_with'},{'Protein'}
+8,HI-II-14_formated.csv,13406,2951,{'NCBIGene'},2917,{'NCBIGene'},{'physically_interacts_with'},{'Protein'}
+9,Input_Table/HuRI_formated.csv,62809,7068,{'NCBIGene'},6843,{'NCBIGene'},{'physically_interacts_with'},{'Protein'}
+10,Yang-16_formated.csv,721,251,{'NCBIGene'},359,{'NCBIGene'},{'physically_interacts_with'},{'Protein'}
+11,GTEX_liver_negative_correlated_formated.csv,14125,1069,{'NCBIGene'},1654,{'NCBIGene'},{'negatively_correlated_with'},{'Gene'}
+12,GTEX_liver_positively_correlated_formated.csv,2878390,10811,{'NCBIGene'},10705,{'NCBIGene'},{'positively_correlated_with'},{'Gene'}
