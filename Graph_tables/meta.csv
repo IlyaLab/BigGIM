@@ -1,14 +1,15 @@
-,KG,No_record,No_objects,object_id_prefix,No_subjects,subject_id_prefix,unique_edges,No_categories_nodes
-0,DrugResponse_expr_auc_gdsc_08312022.csv,175970,79,{'PUBCHEM.COMPOUND'},16161,{'NCBIGene'},"{'associated_with_resistance_to', 'associated_with_sensitivity_to'}","{'SmallMolecule', 'Gene'}"
-1,DrugResponse_mut_IC50_gdsc_08312022.csv,27743,80,{'PUBCHEM.COMPOUND'},4871,{'NCBIGene'},"{'associated_with_resistance_to', 'associated_with_sensitivity_to'}","{'SmallMolecule', 'Gene'}"
-2,TCGA_driver_mut_freq.csv,901,33,{'MONDO'},250,{'NCBIGene'},{'gene_associated_with_condition'},"{'Disease', 'Gene'}"
-3,FA_mut.csv,21,1,{'MONDO'},21,{'NCBIGene'},{'gene_associated_with_condition'},"{'Disease', 'Gene'}"
-4,GDSC_cancer_specific_signatures.csv,13811,8296,{'NCBIGene'},22,{'MONDO'},{'has_biomarker'},"{'Disease', 'Gene'}"
-5,Drug_targets_14806.csv,14806,1508,{'NCBIGene'},3400,{'PUBCHEM.COMPOUND'},{'has_target'},"{'SmallMolecule', 'Gene'}"
-6,Biogrid_formated.csv,820147,17942,{'NCBIGene'},15570,{'NCBIGene'},"{'physically_interacts_with', 'genetically_interacts_with'}","{'Gene', 'Protein'}"
-7,H-I-05_formated.csv,2665,976,{'NCBIGene'},1018,{'NCBIGene'},{'physically_interacts_with'},{'Protein'}
-8,HI-II-14_formated.csv,13406,2951,{'NCBIGene'},2917,{'NCBIGene'},{'physically_interacts_with'},{'Protein'}
-9,Input_Table/HuRI_formated.csv,62809,7068,{'NCBIGene'},6843,{'NCBIGene'},{'physically_interacts_with'},{'Protein'}
-10,Yang-16_formated.csv,721,251,{'NCBIGene'},359,{'NCBIGene'},{'physically_interacts_with'},{'Protein'}
-11,GTEX_liver_negative_correlated_formated.csv,14125,1069,{'NCBIGene'},1654,{'NCBIGene'},{'negatively_correlated_with'},{'Gene'}
-12,GTEX_liver_positively_correlated_formated.csv,2878390,10811,{'NCBIGene'},10705,{'NCBIGene'},{'positively_correlated_with'},{'Gene'}
+,KG,No_record,No_nodes,No_objects,No_subjects,No_unique_edges,unique_edges,No_categories_nodes,subject_id_prefix,object_id_prefix
+0,/Users/guangrong/Documents/GitHub_project/BigGIM_Parser/Input_Table/Input_DrugResponse_expr_auc_gdsc_08312022.csv,175970,16237,79,16161,2,"{'associated_with_resistance_to', 'associated_with_sensitivity_to'}","{'Gene', 'SmallMolecule'}",{'NCBIGene'},{'pubchem.compound'}
+1,/Users/guangrong/Documents/GitHub_project/BigGIM_Parser/Input_Table/Input_DrugResponse_mut_IC50_gdsc_08312022.csv,27743,4949,80,4871,2,"{'associated_with_resistance_to', 'associated_with_sensitivity_to'}","{'Gene', 'SmallMolecule'}",{'NCBIGene'},{'pubchem.compound'}
+2,/Users/guangrong/Documents/GitHub_project/BigGIM_Parser/Input_Table/TCGA_driver_mut_freq.csv,901,283,33,250,1,{'gene_associated_with_condition'},"{'Disease', 'Gene'}",{'NCBIGene'},{'MONDO'}
+3,/Users/guangrong/Documents/GitHub_project/BigGIM_Parser/Input_Table/FA_mut.csv,21,22,1,21,1,{'gene_associated_with_condition'},"{'Disease', 'Gene'}",{'NCBIGene'},{'MONDO'}
+4,/Users/guangrong/Documents/GitHub_project/BigGIM_Parser/Input_Table/GDSC_cancer_specific_signatures.csv,13811,8318,8296,22,1,{'has_biomarker'},"{'Disease', 'Gene'}",{'MONDO'},{'NCBIGene'}
+5,/Users/guangrong/Documents/GitHub_project/BigGIM_Parser/Input_Table/Drug_targets_14806.csv,14806,4781,1508,3400,1,{'physically_interacts_with'},"{'Gene', 'SmallMolecule'}",{'PUBCHEM.COMPOUND'},{'NCBIGene'}
+6,/Users/guangrong/Documents/GitHub_project/BigGIM_Parser/Input_Table/Biogrid_formated.csv,820147,18930,17942,15570,2,"{'physically_interacts_with', 'genetically_interacts_with'}","{'Gene', 'Protein'}",{'NCBIGene'},{'NCBIGene'}
+7,/Users/guangrong/Documents/GitHub_project/BigGIM_Parser/Input_Table/H-I-05_formated.csv,2665,1507,976,1018,1,{'physically_interacts_with'},{'Protein'},{'NCBIGene'},{'NCBIGene'}
+8,/Users/guangrong/Documents/GitHub_project/BigGIM_Parser/Input_Table/HI-II-14_formated.csv,13406,4125,2951,2917,1,{'physically_interacts_with'},{'Protein'},{'NCBIGene'},{'NCBIGene'}
+9,/Users/guangrong/Documents/GitHub_project/BigGIM_Parser/Input_Table/HuRI_formated.csv,62809,8988,7068,6843,1,{'physically_interacts_with'},{'Protein'},{'NCBIGene'},{'NCBIGene'}
+10,/Users/guangrong/Documents/GitHub_project/BigGIM_Parser/Input_Table/Yang-16_formated.csv,721,499,251,359,1,{'physically_interacts_with'},{'Protein'},{'NCBIGene'},{'NCBIGene'}
+11,/Users/guangrong/Documents/GitHub_project/BigGIM_Parser/Input_Table/GTEX_liver_negative_correlated_formated.csv,14125,2309,1069,1654,1,{'negatively_correlated_with'},{'Gene'},{'NCBIGene'},{'NCBIGene'}
+12,/Users/guangrong/Documents/GitHub_project/BigGIM_Parser/Input_Table/GTEX_liver_positively_correlated_formated.csv,2878390,11683,10811,10705,1,{'positively_correlated_with'},{'Gene'},{'NCBIGene'},{'NCBIGene'}
+13,/Users/guangrong/Documents/GitHub_project/BigGIM_Parser/Input_Table/cellmarker.csv,45922,12397,367,12030,1,{'expressed_in'},"{'Gene', 'Cell'}",{'NCBIGene'},{'CellOntology'}
